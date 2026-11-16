@@ -1,6 +1,6 @@
 # outils-m365
 
-Scripts PowerShell que j'utilise pour administrer des tenants Microsoft 365 de petites structures (associations, TPE).
+Scripts PowerShell que j'utilise pour administrer des tenants Microsoft 365 de TPE.
 
 ## Test-MailDns.ps1
 
